@@ -1,17 +1,21 @@
-# 我如何使用 Touch Bar ?
+# MyBTT2 Preset for BetterTouchTool
 
 ***Sam Xiao, May.02, 2023***
 
 ## Overview
 
-Touch Bar 是 MacBook 很偉大的發明，但也是被誤解最深的發明，隨著 M1 Macbook Pro 14" 改模具後，Touch Bar 已經被移除，到目前為止剩下 MacBook Pro 13" 系列仍保有 Touch Bar，本文分享我的 Touch Bar 使用方式。
+Touch Bar 是 MacBook 很偉大的發明，但也是被誤解最深的發明，隨著 M1 Macbook Pro 14" 改模具後，Touch Bar 已經被移除，到目前為止剩下 M2 MacBook Pro 13" 系列仍保有 Touch Bar，MyBTT2 為我所整理的 BetterTouchTool 的 preset。
 
 ## Version
 
 macOS Ventura
-M2 MacBook Pro 2022 13"
+BetterTouchTool 4.068
+MyBTT2 1.0
+2018 MacBook Pro 15"
+2020 MacBook Pro 13"
+2022 M2 MacBook Pro 13"
 
-## All about Touch
+## Touch Bar
 
 觸控一直是最直覺的操作方式，但 MacBook 要如何支援觸控呢？最簡單方式當然是直接在螢幕支援觸控，但由於 MacBook 的主力操作方式仍在鍵盤與觸控板，不斷地移動雙手去觸控螢幕並沒有效率，但若將觸控改放在鍵盤上方就方便多了。
 
@@ -23,7 +27,7 @@ M2 MacBook Pro 2022 13"
 
 既然 `F1` ~ `F12` 的空間是可以拿來利用，那要做什麼呢？Touch Bar 的理念就是結合觸控與第二螢幕概念，讓你不僅可以觸控，app 還可以依照需求自行改變 Touch Bar 功能，這原本是個很棒的概念，但自從 2016 年 Touch Bar 問世到現在 7 年來，能真正發揮 Touch Bar 的 app 並不多，大概也只有 Apple 本家的 Safari、Final Cut Pro、Logic Pro，其他 app 幾乎看不到善用 Touch Bar，這也導致大部分用戶覺得 Touch Bar 可有可無，甚至指定不想買 Touch Bar 機種。
 
-## BetterTouchTool
+## Feature
 
 ![touchbar001](images/touchbar001.png)
 
@@ -71,5 +75,5 @@ M2 MacBook Pro 2022 13"
 
 ## Conclusion
 
-* Touch Bar 其實非常好用，只可惜大部分人依賴 `F1` ~ `F12`，且又沒對其客製化，因此沒有炸出 Touch Bar 潛力，本人原本是入手 M2 MacBook Air 2022 13"，但因為 Touch Bar 實在太好用了，因此又再入手 M2 MacBook Pro 2022 13"，因此特以本文再次介紹 Touch Bar
+* Touch Bar 其實非常好用，只可惜大部分人依賴 `F1` ~ `F12`，且又沒對其客製化，因此沒有炸出 Touch Bar 潛力，本人原本是入手 M2 MacBook Air 2022 13"，但因為 Touch Bar 實在太好用了，因此又再入手 M2 MacBook Pro 2022 13"
 * 在 MacBook Pro 配合 BetterTouchTool 能將 16 個最常用的 app 放在 Touch Bar 上；但 MacBook Air 配合 Karabiner 最多也只能將 12 個最常用的 app 放在 `F1` ~ `F12` 上
