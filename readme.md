@@ -29,7 +29,7 @@ MyBTT2 1.0
 
 ## Feature
 
-![touchbar001](images/touchbar001.png)
+![touchbar001](images/mybtt001.png)
 
 真正能發揮 Touch Bar 威力的其實是 BetterTouchTool，他提供了各種 widget 客製化，以上為我所客製化的 Touch Bar。
 
@@ -61,7 +61,7 @@ MyBTT2 1.0
 
 * **Two Finger Swipe Right**：兩指直接向右滑聲音變大
 
-![touchbar004](images/touchbar002.png)
+![touchbar004](images/mybtt002.png)
 
 按下 `⌃` 才會出現的 Touch Bar，專門用來控制各種設定：
 
