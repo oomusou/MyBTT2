@@ -29,7 +29,7 @@ MyBTT2 1.0
 
 ## Feature
 
-![touchbar001](images/mybtt001.png)
+![touchbar001](images/mybtt001.webp)
 
 真正能發揮 Touch Bar 威力的其實是 BetterTouchTool，他提供了各種 widget 客製化，以上為我所客製化的 Touch Bar。
 
@@ -38,7 +38,7 @@ MyBTT2 1.0
   * **Finder**：macOS 內建的檔案總管
   * **Telegram** / **ChatGPT**：SNS 兼 ChatGPT client
   * **Safari**：macOS 內建的瀏覽器，主要用來看 YouTube 與查資料
-  * **ImageOptim**：將 jpg/png 加以壓縮
+  * **WebP Converter**：將 `jpg`/`png` 壓縮成 `webp`
   * **iTerm2**：CLI terminal
   * **Visual Studio Code**：JavaScript Playground
   * **Sublime Text**：Markdown 編輯器
@@ -61,7 +61,7 @@ MyBTT2 1.0
 
 * **Two Finger Swipe Right**：兩指直接向右滑聲音變大
 
-![touchbar004](images/mybtt002.png)
+![touchbar004](images/mybtt002.webp)
 
 按下 `⌃` 才會出現的 Touch Bar，專門用來控制各種設定：
 
