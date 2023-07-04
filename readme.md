@@ -54,20 +54,19 @@ MyBTT2 1.0
 * **Capture Text**：快速呼叫 `TextSniper` 對 `YouTube` 、`Moji 辞書` 或任意 app 內的文字加以 capture，這對學習日文特別方便
 * **Capture Screen**：呼叫 `CleanShot X` 對整個畫面加以 capture
 * **Mute**：快速切換 Mute / Unmute，這在公開場合尤其方便 
-
 * **Display Sleep**：快速關閉螢幕顯示加以省電，也是每天必用功能
-
-* **Two Finger Swipe Left**：兩指直接向左滑聲音變小
-
-* **Two Finger Swipe Right**：兩指直接向右滑聲音變大
+* **Two Finger Swipe Left**：兩指向左滑聲音變小
+* **Two Finger Swipe Right**：兩指向右滑聲音變大
+* **Three Finger Swipe Left**：三指向左滑螢幕亮度變小
+* **Three Finger Swipe Left**：三指向右滑螢幕亮度變大
 
 ![touchbar004](images/mybtt002.webp)
 
 按下 `⌃` 才會出現的 Touch Bar，專門用來控制各種設定：
 
-* **Battery Widget**：顯示目前電池的各種資訊
-* **Brightness Down**：控制亮度減少
-* **Brightness Up**：控制亮度增加
+* **Weather Widget**：顯示目前天氣的各種資訊
+* **Brightness Down**：控制螢幕亮度減少
+* **Brightness Up**：控制螢幕亮度增加
 * **Emoji**：顯示各種 Emoji
 * **Keyboard Light Down**：控制鍵盤亮度減少
 * **Keyboard Light Up**：控制鍵盤亮度增加
