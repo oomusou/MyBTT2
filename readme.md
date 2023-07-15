@@ -38,9 +38,9 @@ MyBTT2 1.0
   * **Finder**：macOS 內建的檔案總管
   * **Telegram** / **ChatGPT**：SNS 兼 ChatGPT client
   * **Safari**：macOS 內建的瀏覽器，主要用來看 YouTube 與查資料
-  * **WebP Converter**：將 `jpg`/`png` 壓縮成 `webp`
+  * **CloudSticker**：可多台電腦同步的便利貼
+  * **WebP Converter**：將 `png` 壓縮成 `webp`
   * **iTerm2**：CLI terminal
-  * **Visual Studio Code**：JavaScript Playground
   * **Sublime Text**：Markdown 編輯器
   * **ForkLift**：取代 Finder 的檔案總管
   * **Typora**：Markdown 編輯器
